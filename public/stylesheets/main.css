@@ -98,3 +98,6 @@ p {
 .result-fail{
   background-color: #e67642;
 }
+.center {
+  text-align: center
+}
